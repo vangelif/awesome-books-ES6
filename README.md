@@ -19,7 +19,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [MOBILE MENU] <a name="about-project"></a>
+# 📖 [AWESOME BOOKS ES6] <a name="about-project"></a>
 
 **Awesome-books-ES6** is a project that we are applying our knowledge on HTML and CSS and Javascript to showcase our most crisp and pristine projects. 
 
@@ -30,23 +30,23 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Markup Language</summary>
   <ul>
-    <li><a href="">HTML</a></li>
+    <li><a href="https://html.spec.whatwg.org/">HTML</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Graphs</summary>
+  <summary>Style Sheet Language</summary>
   <ul>
-    <li><a href="">CCS</a></li>
+    <li><a href="https://www.w3.org/TR/CSS/#css">CCS</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Server</summary>
+<summary>Scipting Language</summary>
   <ul>
-    <li><a href="">JAVASCRIPT</a></li>
+    <li><a href="https://www.javascript.com/">JAVASCRIPT</a></li>
   </ul>
 </details>
 
