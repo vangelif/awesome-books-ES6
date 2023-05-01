@@ -21,11 +21,7 @@
 
 # 📖 [AWESOME BOOKS ES6] <a name="about-project"></a>
 
-<<<<<<< HEAD
 **Awesome-books-ES6** is a project that we are applying our knowledge on HTML and CSS and Javascript to showcase our most crisp and pristine projects.
-=======
-**Awesome-books-ES6** is a project that we are applying our knowledge on HTML and CSS and Javascript to showcase our most crisp and pristine projects. 
->>>>>>> 8756b8cfd46a3c8644ac5e60c29a5503f6792464
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,20 +52,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-<<<<<<< HEAD
 - **[Use of modules]**
-=======
-- **[Use of modules]** 
->>>>>>> 8756b8cfd46a3c8644ac5e60c29a5503f6792464
+- **[Use of modules]**
 - **[Maintain all functionalities]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<<<<<<< HEAD
+- # <a href="#">Check out the live demo</a>
 - <a href="#">Check out the live demo</a>
-=======
-- <a href="#">Check out the live demo</a>  
->>>>>>> 8756b8cfd46a3c8644ac5e60c29a5503f6792464
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -162,19 +152,17 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-<<<<<<< HEAD
+- [Insert popup windows]
+
+## 🤝 Contributing <a name="contributing"></a>
+
+# Contributions, issues, and feature requests are welcome! Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable.
+
 - [Insert popup windows]
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome! Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable.
-=======
-- [Insert popup windows] 
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome! Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable. 
->>>>>>> 8756b8cfd46a3c8644ac5e60c29a5503f6792464
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -184,15 +172,10 @@ As this is one of the first projects of the author, please be kind enough and sh
 
 For this project many hours have been invested. For that reason, I would like to thank all my family that supported me in this long journey.
 
-<<<<<<< HEAD
 ## 📝 License <a name="license"></a>
 
 This project is <a href="https://github.com/vangelif/Portfolio/blob/popup-window/license.md">MIT licensed</a>.
 
-=======
-  ## 📝 License <a name="license"></a>
+## 📝 License <a name="license"></a>
 
 This project is <a href="https://github.com/vangelif/Portfolio/blob/popup-window/license.md">MIT licensed</a>.
-
-
->>>>>>> 8756b8cfd46a3c8644ac5e60c29a5503f6792464
