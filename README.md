@@ -21,7 +21,7 @@
 
 # 📖 [AWESOME BOOKS ES6] <a name="about-project"></a>
 
-**Awesome-books-ES6** is a project that we are applying our knowledge on HTML and CSS and Javascript to showcase our most crisp and pristine projects. 
+**Awesome-books-ES6** is a project that we are applying our knowledge on HTML and CSS and Javascript to showcase our most crisp and pristine projects.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -52,12 +52,14 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Use of modules]** 
+- **[Use of modules]**
+- **[Use of modules]**
 - **[Maintain all functionalities]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- <a href="#">Check out the live demo</a>  
+- # <a href="#">Check out the live demo</a>
+- <a href="#">Check out the live demo</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -150,11 +152,17 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [Insert popup windows] 
+- [Insert popup windows]
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome! Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable. 
+# Contributions, issues, and feature requests are welcome! Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable.
+
+- [Insert popup windows]
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome! Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable.
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -164,8 +172,10 @@ As this is one of the first projects of the author, please be kind enough and sh
 
 For this project many hours have been invested. For that reason, I would like to thank all my family that supported me in this long journey.
 
-  ## 📝 License <a name="license"></a>
+## 📝 License <a name="license"></a>
 
 This project is <a href="https://github.com/vangelif/Portfolio/blob/popup-window/license.md">MIT licensed</a>.
 
+## 📝 License <a name="license"></a>
 
+This project is <a href="https://github.com/vangelif/Portfolio/blob/popup-window/license.md">MIT licensed</a>.
