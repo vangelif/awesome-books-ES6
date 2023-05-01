@@ -1,4 +1,3 @@
-/* eslint-disable import/no-mutable-exports */
 import Book from './book.js';
 import { DateTime } from './luxon.js';
 import {
