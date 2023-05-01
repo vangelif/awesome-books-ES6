@@ -103,8 +103,10 @@ const date = new Date();
 time.textContent = `${date.toDateString()}`;
 
 setInterval(() => {
+
   const date = DateTime.now().toLocaleString(
     DateTime.DATETIME_FULL_WITH_SECONDS,
   );
   time.textContent = `${date}`;
 }, 1000);
+

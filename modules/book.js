@@ -8,11 +8,13 @@ export default class Book {
   addBook(author, title) {
     const updatedBook = [
       ...this.booksList,
+
       {
         id: `${Math.trunc(Math.random() * 100000)}${author.split(' ')[0]}`,
         author,
         title,
       },
+
     ];
     this.updateStorage(updatedBook);
   }
