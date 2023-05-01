@@ -1,15 +1,15 @@
-//constructor
+// constructor
 export default class Book {
   constructor() {
-    this.booksList = JSON.parse(localStorage.getItem("storage-book")) || [];
+    this.booksList = JSON.parse(localStorage.getItem('storage-book')) || [];
   }
 
-  //add book
+  // add book
   addBook(author, title) {
     const updatedBook = [
       ...this.booksList,
       {
-        id: `${Math.trunc(Math.random() * 100000)}${author.split(" ")[0]}`,
+        id: `${Math.trunc(Math.random() * 100000)}${author.split(' ')[0]}`,
         author,
         title,
       },
@@ -22,6 +22,7 @@ export default class Book {
     const updatedBook = this.booksList.filter((it) => it.id !== id);
     this.updateStorage(updatedBook);
   }
+
   // Get books
   getBook() {
     return this.booksList;
@@ -29,8 +30,7 @@ export default class Book {
 
   // update storage
   updateStorage(data) {
-    localStorage.setItem("storage-book", JSON.stringify(data));
+    localStorage.setItem('storage-book', JSON.stringify(data));
     this.booksList = data;
   }
 }
-
