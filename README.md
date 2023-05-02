@@ -52,13 +52,10 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Use of modules]**
-- **[Use of modules]**
 - **[Maintain all functionalities]**
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- # <a href="#">Check out the live demo</a>
 - <a href="#">Check out the live demo</a>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -156,9 +153,7 @@ Example:
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-# Contributions, issues, and feature requests are welcome! Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable.
-
-- [Insert popup windows]
+Contributions, issues, and feature requests are welcome! Feel free to come in touch with the author and arrange a meeting and make your contributions truly valuable.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
